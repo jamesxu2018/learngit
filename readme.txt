@@ -7,3 +7,4 @@ Git can merge branch.
 changed by aa.
 Changed by learngit.
 bug branch testing.
+tag testing.
