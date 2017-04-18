@@ -7,3 +7,9 @@ Git can merge branch.
 changed by aa.
 Changed by learngit.
 bug branch testing.
+bug branch testing.
+changed by aa.
+Changed by learngit.
+test for dev.
+test for dev by aa.
+test for dev by bb.
