@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Git can merge branch.
 changed by aa.
 Changed by learngit.
+bug branch testing.
