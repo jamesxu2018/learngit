@@ -15,3 +15,4 @@ test for git3 on window from home.
 test for git3 on window from home2
 test for git3 on window from home3
 test for git3 on window from home on site1.
+test for git3 on window from home3 at feature1 branch
