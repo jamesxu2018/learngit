@@ -13,4 +13,5 @@ test for git.
 test for git2.
 test for git3 on window from home.
 test for git3 on window from home2
+test for git3 on window from home on site1.
 test for git3 on window from home3
