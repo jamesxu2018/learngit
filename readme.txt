@@ -10,3 +10,4 @@ bug branch testing.
 tag testing.
 test
 test for git.
+test for git2.
