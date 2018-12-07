@@ -18,3 +18,6 @@ D:\bak\skydrive\automation\learngit
 /d/bak/skydrive/automation/learngit
 how to user git instead of https?
 git@github.com:jamesxu2018/learngit.git
+edit .gitconfig file
+
+
