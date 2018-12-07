@@ -20,4 +20,5 @@ how to user git instead of https?
 git@github.com:jamesxu2018/learngit.git
 edit .gitconfig file
 does it work?
+not quite sure,check it again
 
