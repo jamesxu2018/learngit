@@ -58,5 +58,6 @@ $ git remote -v
 origin  git@github.com:jamesxu2018/learngit.git (fetch)
 origin  git@github.com:jamesxu2018/learngit.git (push)
 
-
+git push --set-upstream origin master
+ 
 
