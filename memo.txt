@@ -16,9 +16,21 @@ ssh-keygen -t rsa -C 'jamesxu@juniper.net'
 D:\bak\skydrive\automation\learngit
 
 /d/bak/skydrive/automation/learngit
-how to user git instead of https?
-git@github.com:jamesxu2018/learngit.git
-edit .gitconfig file
-does it work?
-not quite sure,check it again
+How to user git instead of https?
+
+Solution1：
+Still use https but keep the credentials as below
+edit the .gitconfig,add section as below
+[credential]
+helper = store
+
+Do a push/pull once to store the credential
+
+It will store the credential as below, so we will not be ask to input credential in future
+
+
+
+C:\Users\哥\.gitconfig
+C:\Users\哥\.git-credentials
+https://jamesxu2018:g2G1z8mf@github.com
 
