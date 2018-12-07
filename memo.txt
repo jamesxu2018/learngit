@@ -1,0 +1,18 @@
+https://github.com/jamesxu2018/learngit.git
+
+jamesxu2018
+g2G1z8mf
+
+.gitignore
+.idea/
+
+user.name=jamesxu
+user.email=jamesxu@juniper.net
+
+ssh-keygen -t rsa -C 'jamesxu@juniper.net'
+
+/c/Users/哥/.ssh
+
+D:\bak\skydrive\automation\learngit
+
+/d/bak/skydrive/automation/learngit
