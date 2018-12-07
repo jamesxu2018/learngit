@@ -34,3 +34,29 @@ C:\Users\哥\.gitconfig
 C:\Users\哥\.git-credentials
 https://jamesxu2018:g2G1z8mf@github.com
 
+
+
+哥@james MINGW64 /d/bak/skydrive/automation/learngit (master)
+$ git remote -v
+origin  https://github.com/jamesxu2018/learngit.git (fetch)
+origin  https://github.com/jamesxu2018/learngit.git (push)
+
+哥@james MINGW64 /d/bak/skydrive/automation/learngit (master)
+$ git remote remove origin
+
+哥@james MINGW64 /d/bak/skydrive/automation/learngit (master)
+$ git remote -v
+
+哥@james MINGW64 /d/bak/skydrive/automation/learngit (master)
+$
+
+
+
+git remote add origin git@github.com:jamesxu2018/learngit.git
+
+$ git remote -v
+origin  git@github.com:jamesxu2018/learngit.git (fetch)
+origin  git@github.com:jamesxu2018/learngit.git (push)
+
+
+
