@@ -64,4 +64,9 @@ Your branch is up-to-date with 'origin/master'.
 nothing to commit, working tree clean
 
  
+ 12.9 2018
+ How to commit in one command?
+ git commit -am
+ 
+ 
 
