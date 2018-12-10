@@ -74,3 +74,5 @@ Understand the different of git diff and gif diff --cached
 git diff compares the different of specified files in working folder and the same files in stage since last add, the purpose is to confirm any new changes in working folder are suitable to add
 git diff --cached compares the stage and last commit, the purpose is to make sure current commit is suitable
 
+
+Test for new git 2.20 for win
