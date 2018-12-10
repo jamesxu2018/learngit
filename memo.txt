@@ -75,4 +75,11 @@ git diff compares the different of specified files in working folder and the sam
 git diff --cached compares the stage and last commit, the purpose is to make sure current commit is suitable
 
 
+Test in 93.61
+Test https credential storage
+Test https credential storage2
+Test new git 2.2.1
+
 Test for new git 2.20 for win
+
+
