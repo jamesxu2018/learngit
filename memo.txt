@@ -78,3 +78,4 @@ git diff --cached compares the stage and last commit, the purpose is to make sur
 Test in 93.61
 Test https credential storage
 Test https credential storage2
+Test new git 2.2.1
