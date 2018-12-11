@@ -83,3 +83,15 @@ Test new git 2.2.1
 Test for new git 2.20 for win
 
 
+https://www.cnblogs.com/gudi/p/6597660.html
+
+git config 的3个维度及对应的文件
+git config --system
+/etc/gitconfig
+git config --global
+C:\Documents and Settings\$USER
+git config
+.git/config
+
+
+

@@ -1,4 +1,18 @@
 收录一个git学习网站
 https://github.com/seeways/GitLearn
- http://files.cnblogs.com/ma6174/git-tutor.pdf
- https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374027586935cf69c53637d8458c9aec27dd546a6cd6000
+http://files.cnblogs.com/ma6174/git-tutor.pdf
+
+https://git-scm.com/book/zh/v1/%E8%B5%B7%E6%AD%A5
+git 中文教程
+
+ 
+ 
+我来解读一下读完后理解的Git与SVN的主要差别
+我觉得这两个工具主要的区别在于历史版本维护的位置
+
+Git本地仓库包含代码库还有历史库，在本地的环境开发就可以记录历史
+而SVN的历史库存在于中央仓库，每次对比与提交代码都必须连接到中央仓库才能进行
+
+这样的好处在于：
+1、自己可以在脱机环境查看开发的版本历史
+2、多人开发时如果充当中央仓库的Git仓库挂了，任何一个开发者的仓库都可以作为中央仓库进行服务
