@@ -16,10 +16,10 @@ ssh-keygen -t rsa -C 'jamesxu@juniper.net'
 D:\bak\skydrive\automation\learngit
 /d/bak/skydrive/automation/learngit
 
-How to user git instead of https?
+How to pull/push w/o type credential every time?
 
 Solution1：
-Still use https but keep the credentials as below
+Use https but keep the credentials as below
 edit the .gitconfig,add section as below
 [credential]
 helper = store
@@ -33,7 +33,8 @@ C:\Users\哥\.git-credentials
 https://jamesxu2018:g2G1z8mf@github.com
 
 Solution2：
-remove https and add git
+Use git directly
+Note: if you ever use https, remove it first
 
 哥@james MINGW64 /d/bak/skydrive/automation/learngit (master)
 $ git remote -v
@@ -64,13 +65,13 @@ Your branch is up-to-date with 'origin/master'.
 nothing to commit, working tree clean
 
  
- 12.9 2018
+12.9 2018
  How to commit in one command?
  git commit -am
  or
  git commit -a -m
  
-Understand the different of git diff and gif diff --cached
+Understand the different between git diff and gif diff --cached
 git diff compares the different of specified files in working folder and the same files in stage since last add, the purpose is to confirm any new changes in working folder are suitable to add
 git diff --cached compares the stage and last commit, the purpose is to make sure current commit is suitable
 
