@@ -95,4 +95,8 @@ git config
 .git/config
 
 
+12.24
+test for git diff --cached
+
+
 
