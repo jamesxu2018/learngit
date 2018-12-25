@@ -100,3 +100,11 @@ test for git diff --cached
 
 
 
+12.25
+add multiple files and or folder in a time
+git add file1 file2 file3 folder1 folder2 folder3
+git add *.*
+git add *.txt
+
+git reset head  --- unstage
+folder name can be folder or folder/
