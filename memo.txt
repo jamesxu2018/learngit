@@ -108,3 +108,8 @@ git add *.txt
 
 git reset head  --- unstage
 folder name can be folder or folder/
+
+delete file or folder tracked by git
+git rm -rf  file or folder
+
+
