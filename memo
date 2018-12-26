@@ -137,6 +137,7 @@ config
 Linux下Git1.71升级
 https://blog.csdn.net/jianjun_jiang/article/details/67061806
 
-test for git config --global push.default simple
+\joc-test\pythonrobot\pod_test\conf\config.properties
 
-good for git
+
+test only
