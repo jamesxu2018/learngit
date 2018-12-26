@@ -129,8 +129,13 @@ Sevilla script location:
 joc-test
 git@git.juniper.net:sevilla/joc-test.git
 https://git.juniper.net/sevilla/joc-test.git
+config 
+\joc-test\pythonrobot\pod_test\conf\config.properties
+
 
 
 Linux下Git1.71升级
 https://blog.csdn.net/jianjun_jiang/article/details/67061806
+
+\joc-test\pythonrobot\pod_test\conf\config.properties
 
