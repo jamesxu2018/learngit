@@ -117,3 +117,12 @@ https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b
 
 Test from jamesxu-T460
 
+How to handel "git remote: HTTP Basic: Access denied" issue
+Reason, the changes of git credential
+Run cmd as Administrator
+Type ”git config --system --unset credential.helper” to reset user credential
+or
+git config –global http.emptyAuth true
+
+
+
