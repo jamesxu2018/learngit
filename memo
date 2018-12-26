@@ -103,12 +103,12 @@ test for git diff --cached
 
 12.25
 add multiple files and or folder in a time
-git add file1 file2 file3 folder1 folder2 folder3
+git add file1 file2 file3 folder1 folder2 folder3/
 git add *.*
 git add *.txt
 
 git reset head  --- unstage
-folder name can be folder or folder/
+folder name can be either folder or folder/
 
 delete file or folder tracked by git
 git rm -rf  file or folder
@@ -118,12 +118,12 @@ https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b
 
 Test from jamesxu-T460
 
-How to handel "git remote: HTTP Basic: Access denied" issue
-Reason, the changes of git credential
+How to handle "git remote: HTTP Basic: Access denied" issue
+Reason, used git credential has been changed 
 Run cmd as Administrator
-Type ”git config --system --unset credential.helper” to reset user credential
+Type ”git config --system --unset credential.helper” to reset user's credential
 or
-git config –global http.emptyAuth true
+git config --global http.emptyAuth true
 
 Sevilla script location:
 joc-test
@@ -137,8 +137,3 @@ config
 Linux下Git1.71升级
 https://blog.csdn.net/jianjun_jiang/article/details/67061806
 
-\joc-test\pythonrobot\pod_test\conf\config.properties
-
-
-test only
-test2
