@@ -124,5 +124,12 @@ Type ”git config --system --unset credential.helper” to reset user credentia
 or
 git config –global http.emptyAuth true
 
+Sevilla script location:
+joc-test
+git@git.juniper.net:sevilla/joc-test.git
+https://git.juniper.net/sevilla/joc-test.git
 
+
+Linux下Git1.71升级
+https://blog.csdn.net/jianjun_jiang/article/details/67061806
 
