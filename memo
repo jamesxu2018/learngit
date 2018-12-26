@@ -141,3 +141,12 @@ https://blog.csdn.net/jianjun_jiang/article/details/67061806
 
 12.26
 go back and go forward
+git reset --hard HEAD^
+git reset --hard HEAD^^
+git reset --hard HEAD~100
+git reset --hard commit_id
+git log
+git log --pretty=oneline
+git reflog
+git revert commit_id
+
