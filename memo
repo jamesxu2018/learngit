@@ -174,3 +174,12 @@ different of rm & git rm
 rm delete the file from disk physically but this action will not be recorded in git
 so, it bring an issue that it can't be committed before issue git add/rm file or an alternative way git commit -am 'abc'
 
+
+Link to a remote repository
+git remote add origin git@server-name:path/repo-name.git；
+
+push local/master branch to remote origin/master at the first time, push the content and setup link as well.
+git push -u origin master
+
+push commit in future
+git push origin master
