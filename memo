@@ -147,6 +147,7 @@ git reset --hard HEAD~100
 git reset --hard commit_id
 git log
 git log --pretty=oneline
+git log --oneline
 git reflog
 git revert commit_id
 
