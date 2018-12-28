@@ -200,4 +200,4 @@ test for branch dev
 删除分支：git branch -d <name>
 
 
-merge confict fix,master
+merge confict fix,master & f
