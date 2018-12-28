@@ -170,5 +170,7 @@ git reset HEAD file
 git checkout -- file
 
 
-
+different of rm & git rm
+rm delete the file from disk physically but this action will not be recorded in git
+so, it bring an issue that it can't be committed before issue git add/rm file or an alternative way git commit -am 'abc'
 
