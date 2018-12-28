@@ -151,3 +151,10 @@ git log --oneline
 git reflog
 git revert commit_id
 
+
+12.28
+test for reset & push force
+
+
+
+
