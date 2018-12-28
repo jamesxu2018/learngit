@@ -156,6 +156,7 @@ git revert commit_id
 test for reset & push force
 step1
 step2
+step3
 
 
 
