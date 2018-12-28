@@ -163,9 +163,11 @@ or
 git diff HEAD -- file
 
 test for withdraw
-case1:Modify only
-case2: Modify and added
-
+case1:Modify only(red)
+git checkout -- file
+case2: Modify and added(green)
+git reset HEAD file
+git checkout -- file
 
 
 
