@@ -158,6 +158,15 @@ step1
 step2
 step3
 
+git diff HEAD file
+or
+git diff HEAD -- file
+
+test for withdraw
+case1:Modify only
+case2: Modify and added
+
+
 
 
 
