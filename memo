@@ -226,4 +226,22 @@ git checkout master -- path
 
 
 test for tag
-tag 1.0
+git tag 1.0
+git tag
+git tag 1.1 commit_id
+git show <tagname>
+git tag -a v0.1 -m "version 0.1 released" 1094adb
+git tag -d v1.2
+git push origin v1.0
+git push origin --tags
+delete tag from remote
+git push origin :refs/tags/v0.9
+
+
+alias
+git config --global alias.st status
+$ git config --global alias.co checkout
+$ git config --global alias.ci commit
+$ git config --global alias.br branch
+
+
