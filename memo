@@ -212,3 +212,16 @@ $ git branch -vv
 * feature2 7f7f157 [origin/feature2] update memo
   master   7f7f157 [origin/master] update memo
 
+
+  
+git stash
+--store current working area
+git stash list
+--show stash
+git stash pop
+--restore
+
+git checkout master -- path
+--checkout file from other branch
+
+
