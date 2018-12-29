@@ -202,3 +202,12 @@ test for branch dev
 
 git log --graph
 
+
+add a branch from remote repository
+git checkout -b feature2 origin/feature2
+$ git branch -vv
+  dev      5bd089a [origin/dev] li
+  feature1 4f2a2ed [origin/feature1] .gitignore
+* feature2 7f7f157 [origin/feature2] update memo
+  master   7f7f157 [origin/master] update memo
+
