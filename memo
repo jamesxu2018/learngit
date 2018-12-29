@@ -225,3 +225,5 @@ git checkout master -- path
 --checkout file from other branch
 
 
+test for tag
+tag 1.0
