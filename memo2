@@ -19,3 +19,7 @@ Git本地仓库包含代码库还有历史库，在本地的环境开发就可�
 
 git 官方文档
 https://git-scm.com/book/zh/v2
+
+
+git 优雅的撤销中间某次提交
+https://blog.csdn.net/u013066244/article/details/79920012
