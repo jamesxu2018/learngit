@@ -17,6 +17,8 @@ ssh-keygen -t rsa -C 'jamesxu@juniper.net'
 cygpath -p "D:\bak\skydrive\automation\learngit" -a
 /d/bak/skydrive/automation/learngit
 
+Note: we still can change the default start-up folder to start git-bash from the specified folder
+
 
 How to pull/push w/o type credential every time?
 
