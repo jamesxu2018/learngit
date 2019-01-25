@@ -250,6 +250,6 @@ $ git config --global alias.br branch
 
 2019.1.25
 Test for revert commit1
-
+Test for revert commit2
 
 
