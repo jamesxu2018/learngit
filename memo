@@ -14,8 +14,9 @@ ssh-keygen -t rsa -C 'jamesxu@juniper.net'
 
 /c/Users/哥/.ssh
 
-D:\bak\skydrive\automation\learngit
+cygpath -p "D:\bak\skydrive\automation\learngit" -a
 /d/bak/skydrive/automation/learngit
+
 
 How to pull/push w/o type credential every time?
 
