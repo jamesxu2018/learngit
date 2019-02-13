@@ -258,3 +258,20 @@ Test for revert commit3
 rebase1
 rebase2
 rebase3
+
+git rebase -i  [startpoint]  [endpoint]
+
+
+$ git log --pretty=oneline
+4c4ae58189033a421a5ae32d429b968740720722 (HEAD -> master) rebase3
+e2c430085faa839eb9525c410268dd0a7c486783 rebase2
+f14c15137f35fe2f2dc16a2b17dc4cb5c656cfab rebase1
+2835fbe49695e5375d6c3cfbfb52f1b6b404ccfa rebase base
+
+ git rebase -i 2835fb 
+
+$ git log --pretty=oneline
+b94a5c51c5064b803802cde10ab6202b915eaced (HEAD -> master) rebase1
+2835fbe49695e5375d6c3cfbfb52f1b6b404ccfa rebase base
+
+
