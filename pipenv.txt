@@ -1,0 +1,11 @@
+selenium
+robotframework
+pexpect
+ncclient
+paramiko
+pywin32
+junos-eznc
+python-dateutil
+xlrd
+
+C:\Users\哥\.virtualenvs
