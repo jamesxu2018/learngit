@@ -20,4 +20,24 @@ class SafeConfigParser(ConfigParser):
 SafeConfigParser
 ConfigParser		
 
-D:\Program Files (x86)\Python3.6.4\Scripts\pipenv.exe
+"D:\Program Files (x86)\Python3.6.4\Scripts\pipenv.exe"
+"D:\Program Files (x86)\Python3.6.4\Scripts\"
+
+D:\bak\skydrive\Sevilla_2.0\automation\joc-test\pod_test\lib
+D:\bak\skydrive\Sevilla_2.0\automation\joc-test\pod_test\lib\keywords
+D:\bak\skydrive\Sevilla_2.0\automation\joc-test\pod_test\lib\network
+
+PYTHONPATH=D:\bak\skydrive\Sevilla_2.0\automation\joc-test\pod_test\lib;D:\bak\skydrive\Sevilla_2.0\automation\joc-test\pod_test\lib\keywords;D:\bak\skydrive\Sevilla_2.0\automation\joc-test\pod_test\lib\network
+
+
+NETWORK_BREADCRUMB_MATCH
+
+
+pod_test/lib/keywords/JocKeywords.py
+gotoLocation --> go to any common page
+
+
+pod_test/lib/JocConstants.py
+pod_test/lib/webui.py
+
+
