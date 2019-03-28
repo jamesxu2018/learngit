@@ -275,3 +275,7 @@ b94a5c51c5064b803802cde10ab6202b915eaced (HEAD -> master) rebase1
 2835fbe49695e5375d6c3cfbfb52f1b6b404ccfa rebase base
 
 
+#pull specified branch from remote repository
+
+git pull origin develop:develop
+
