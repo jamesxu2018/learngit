@@ -1,5 +1,15 @@
 change local to d:/bak/skydrive/learngit
 
+for var in $(ls)
+do
+　　echo "$var"done
+
+{1..100..2}: 1到100增量为2
+
+git push origin branch-name
+
+git switch branch
+
 https://github.com/jamesxu2018/learngit.git
 git@github.com:jamesxu2018/learngit.git
 
