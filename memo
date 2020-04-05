@@ -1,26 +1,25 @@
-change local to d:/bak/skydrive/learngit
+change local location to d:/bak/skydrive/learngit
 
+shell script:
 for var in $(ls)
 do
 　　echo "$var"done
 
 {1..100..2}: 1到100增量为2
 
+git branch branch-name
+git switch branch-name
 git push origin branch-name
 
-git switch branch
 
 https://github.com/jamesxu2018/learngit.git
 git@github.com:jamesxu2018/learngit.git
-
-jamesxu2018
-g2G1z8mf
 
 .gitignore
 .idea/
 
 user.name=jamesxu
-user.email=jamesxu@juniper.net
+user.email=4935324@qq.com
 
 ssh-keygen -t rsa -C 'jamesxu@juniper.net'
 
@@ -30,7 +29,6 @@ cygpath -p "D:\bak\skydrive\automation\learngit" -a
 /d/bak/skydrive/automation/learngit
 
 Note: we still can change the default start-up folder to start git-bash from the specified folder
-
 
 How to pull/push w/o type credential every time?
 
