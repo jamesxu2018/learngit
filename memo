@@ -1,5 +1,8 @@
 change local location to d:/bak/skydrive/learngit
 
+git update-git-for-windows
+git version
+
 shell script:
 for var in $(ls)
 do
