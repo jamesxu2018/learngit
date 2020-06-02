@@ -215,6 +215,8 @@ test for branch dev
 合并某分支到当前分支：git merge <name>
 
 删除分支：git branch -d <name>
+删除远端分支：git push origin --delete <name>
+
 
 
 git log --graph
