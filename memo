@@ -295,3 +295,8 @@ b94a5c51c5064b803802cde10ab6202b915eaced (HEAD -> master) rebase1
 
 git pull origin develop:develop
 
+
+关于main/master的疑问？
+新版本git的缺省分支名字改为main了吗？
+master提交项目到远程仓库出现There isn’t anything to compare. main and master are entirely different ...”
+https://blog.csdn.net/yolo_______95/article/details/128460256
